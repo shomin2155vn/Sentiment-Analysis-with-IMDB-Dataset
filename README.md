@@ -116,3 +116,6 @@ Example:
 
 ```python
 predict_sentiment("This movie was amazing. The story and acting were fantastic!")
+```
+You can access the online project via [this link](https://colab.research.google.com/drive/1ISXzES-kAHqrTaPSU9MjRNtjDf6wfzWj).
+
